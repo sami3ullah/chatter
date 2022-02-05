@@ -1,0 +1,16 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "chat application",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Muhammad Samiullah",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
